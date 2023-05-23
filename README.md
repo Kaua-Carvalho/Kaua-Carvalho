@@ -2,6 +2,8 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=Opa,+Meu+nome+é+Kauã+Carvalho;Tenho+19+anos;Sou+de+Lavras,+MG;Sou+estudante+de+programação+e+tecnologia;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
+##
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Kaua-Carvalho&show_icons=true&count_private=true&hide_border=true&title_color=00FF7Ff&icon_color=00FF7F&text_color=c9d1d9&bg_color=0d1117" alt="Kaua Carvalho github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaua-Carvalho&layout=compact&hide_border=true&title_color=00FF7F&text_color=00FF7F&bg_color=0d1117" />
@@ -14,6 +16,8 @@
   <img align="center" alt="AL-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="AL-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="AL-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  
+  ##
   
 </div>
   
