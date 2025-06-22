@@ -1,5 +1,5 @@
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=Opa,+Meu+nome+é+Kauã+Carvalho;Tenho+19+anos;Sou+de+Lavras,+MG;Sou+estudante+de+programação+e+tecnologia;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=Opa,+Meu+nome+é+Kauã+Carvalho;Tenho+21+anos;Sou+de+Lavras,+MG;Sou+estudante+de+programação+e+tecnologia;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 ##
 
