@@ -4,7 +4,7 @@
 ##
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaua-Carvalho&show_icons=true&theme=shadow-green&bg_color=00000000)
+![GitHub stats](kaua-carvalho-github-stats.vercel.app/api?username=Kaua-Carvalho&show_icons=true&theme=shadow-green&bg_color=00000000)
 
 
 
